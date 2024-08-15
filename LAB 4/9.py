@@ -1,3 +1,14 @@
+''' 
+Write a program that accepts a string
+I. reverses it.
+II. checks whether it is a palindrome.
+III. checks whether it ends with a specific substring.
+IV. capitalize the first letter of each word in a string
+V. check if a string is anagram of another string
+VI. remove vowels from string
+VII. find length of the longest word in a sentence
+'''
+
 def reverse_string(s):
     return s[::-1]
 
