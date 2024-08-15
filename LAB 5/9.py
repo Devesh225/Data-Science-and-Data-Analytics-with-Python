@@ -1,3 +1,5 @@
+# Print the season name of the year based on the month number using a dictionary.
+
 monthToSeason = {
     1: 'Winter', 2: 'Winter', 3: 'Spring',
     4: 'Spring', 5: 'Spring', 6: 'Summer',
