@@ -1,3 +1,6 @@
+# Write a program to enter a string. Calculate the length of the string. Find the substring country.
+# Count the occurences of each word in the given sentence.
+
 s = input("Enter a string: ")
 slen = len(s)
 print(f"Length of the string: {slen}")
