@@ -1,3 +1,5 @@
+# Create an empty dictionary called dog.Add name, color, breed, legs, age to the dog dictionary.
+
 dog = {}
 dog['name'] = 'Buddy'
 dog['color'] = 'Brown'
