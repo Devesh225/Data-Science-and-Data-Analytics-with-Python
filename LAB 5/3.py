@@ -1,3 +1,12 @@
+'''
+Create fruits, vegetables and animal products tuples.
+I. Join the three tuples and assign it to a variable called food_stuff_tp.
+II. Change the about food_stuff_tp tuple to a food_stuff_lt list
+III. Slice out the middle item or items from the food_stuff_tp tuple or food_stuff_lt list.
+IV. Slice out the first three items and the last three items from food_staff_lt list
+V. Delete the food_staff_tp tuple completely
+'''
+
 fruits = ('apple', 'banana', 'cherry')
 vegetables = ('carrot', 'broccoli', 'spinach')
 animal_products = ('milk', 'cheese', 'butter')
